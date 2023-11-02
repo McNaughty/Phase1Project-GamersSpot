@@ -5238,5 +5238,21 @@
       "Genre": "Adventure,Casual,Indie,Role PlayingStrategy,",
       "Status": "AVAILABLE"
     }
+  ],
+  "users": [
+    {
+      "UserID": 1001,
+      "FullName": "Test",
+      "Email": "test@gmail.com",
+      "Birthdate": "01-01-2023",
+      "Gender": "Female",
+      "StreetAddress": "Hatheru Road",
+      "StreetAddressTwo": "Lavington",
+      "Country": "Kenya",
+      "City": "Nairobi",
+      "Region": "Nairobi",
+      "PostalCode": "1172 "
+    }
   ]
 }
+
