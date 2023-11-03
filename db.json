@@ -1,0 +1,715 @@
+{
+    "games": [
+ {
+   "ID": 100031911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\7daysToDie.jpg",
+   "Title": "7 Days to Die",
+   "Steam Url": "https://store.steampowered.com/app/251570",
+   "Publisher": "The Fun Pimps Entertainment LLC",
+   "Genre": "Action,Adventure,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100251911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "A Plague Tale: Innocence",
+   "Steam Url": "https://store.steampowered.com/app/752590",
+   "Publisher": "Focus Home Interactive",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100129011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Absolver",
+   "Steam Url": "https://store.steampowered.com/app/473690",
+   "Publisher": "Devolver Digital",
+   "Genre": "Action,Adventure,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100184111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "ACE COMBAT™ 7: SKIES UNKNOWN",
+   "Steam Url": "https://store.steampowered.com/app/502500",
+   "Publisher": "BANDAI NAMCO Studio Inc.",
+   "Genre": "Action,Simulation,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100320911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\AssassinRemastered.jpg",
+   "Title": "Assassin’s Creed® III Remastered",
+   "Steam Url": "",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100166611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Assassin’s Creed® IV Black Flag™",
+   "Steam Url": "https://store.steampowered.com/app/242050",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100225411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Assassin’s Creed® Odyssey",
+   "Steam Url": "https://store.steampowered.com/app/812140",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100143211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Assassin’s Creed® Origins",
+   "Steam Url": "https://store.steampowered.com/app/582160",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100182811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Assassin’s Creed® Unity",
+   "Steam Url": "https://store.steampowered.com/app/289650",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100163011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Assassin’s Creed®: Syndicate",
+   "Steam Url": "https://store.steampowered.com/app/368500",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100543011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "AVICII Invector",
+   "Steam Url": "https://store.steampowered.com/app/986800",
+   "Publisher": "Wired Productions",
+   "Genre": "Casual,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100127111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Batman™: Arkham Asylum Game of the Year Edition",
+   "Steam Url": "https://store.steampowered.com/app/35140",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100140711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Batman™: Arkham City - Game of the Year Edition",
+   "Steam Url": "https://store.steampowered.com/app/200260",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100230611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Battlefleet Gothic: Armada 2",
+   "Steam Url": "https://store.steampowered.com/app/573100",
+   "Publisher": "Focus Home Interactive",
+   "Genre": "Strategy,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100358211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Bear With Me: The Lost Robots",
+   "Steam Url": "https://store.steampowered.com/app/1050000",
+   "Publisher": "Modus Games",
+   "Genre": "Adventure,Casual,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100358811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Blair Witch",
+   "Steam Url": "https://store.steampowered.com/app/1092660",
+   "Publisher": "Bloober Team NA",
+   "Genre": "Adventure,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100219811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "BlazBlue: Cross Tag Battle",
+   "Steam Url": "https://store.steampowered.com/app/702890",
+   "Publisher": "Arc System Works",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100044511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Borderlands 2",
+   "Steam Url": "https://store.steampowered.com/app/49520",
+   "Publisher": "2K Games",
+   "Genre": "Action,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100330411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Borderlands Game of the Year Enhanced",
+   "Steam Url": "https://store.steampowered.com/app/729040",
+   "Publisher": "2K",
+   "Genre": "Action,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18108411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Borderlands: The Pre-Sequel",
+   "Steam Url": "https://store.steampowered.com/app/261640",
+   "Publisher": "2K Games",
+   "Genre": "Action,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100005111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Brawlhalla",
+   "Steam Url": "https://store.steampowered.com/app/291550",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Free To Play,Indie,Platformer,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100047411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Call of Duty: World at War",
+   "Steam Url": "https://store.steampowered.com/app/10090",
+   "Publisher": "Activision",
+   "Genre": "Action,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100234111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Call of Duty®: Black Ops 4",
+   "Steam Url": "",
+   "Publisher": "Activision",
+   "Genre": "Action,First-Person Shooter,Massively Multiplayer Online,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 17935911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Call of Duty®: Black Ops III",
+   "Steam Url": "https://store.steampowered.com/app/311210",
+   "Publisher": "Activision",
+   "Genre": "Action,Adventure,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100005511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Call of Duty®: Infinite Warfare",
+   "Steam Url": "https://store.steampowered.com/app/292730",
+   "Publisher": "Activision",
+   "Genre": "Action,Adventure,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100357011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Call of Duty®: Modern Warfare®",
+   "Steam Url": "",
+   "Publisher": "Activision",
+   "Genre": "Action,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 17937011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "DARK SOULS™ II",
+   "Steam Url": "https://store.steampowered.com/app/236430",
+   "Publisher": "BANDAI NAMCO Entertainment",
+   "Genre": "Action,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100197011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "DARK SOULS™: REMASTERED",
+   "Steam Url": "https://store.steampowered.com/app/570940",
+   "Publisher": "BANDAI NAMCO Entertainment America Inc.",
+   "Genre": "Action,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100047811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "DiRT 4",
+   "Steam Url": "https://store.steampowered.com/app/421020",
+   "Publisher": "Codemasters",
+   "Genre": "Racing,Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100229711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "DiRT Rally 2.0",
+   "Steam Url": "https://store.steampowered.com/app/690790",
+   "Publisher": "Codemasters",
+   "Genre": "Racing,Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100229711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "DiRT Rally 2.0",
+   "Steam Url": "https://store.steampowered.com/app/690790",
+   "Publisher": "Codemasters",
+   "Genre": "Racing,Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100035411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Dishonored 2",
+   "Steam Url": "https://store.steampowered.com/app/403640",
+   "Publisher": "Bethesda Softworks",
+   "Genre": "Action,First-Person Shooter,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100133211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Dishonored®: Death of the Outsider™",
+   "Steam Url": "https://store.steampowered.com/app/614570",
+   "Publisher": "Bethesda Softworks",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100366411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "EARTH DEFENSE FORCE 5",
+   "Steam Url": "https://store.steampowered.com/app/1007040",
+   "Publisher": "D3 PUBLISHER",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100158811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Edge Of Eternity",
+   "Steam Url": "https://store.steampowered.com/app/269190",
+   "Publisher": "Playdius Entertainment",
+   "Genre": "Indie,Role Playing,Strategy,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18117111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Enter the Gungeon",
+   "Steam Url": "https://store.steampowered.com/app/311690",
+   "Publisher": "Devolver Digital",
+   "Genre": "Action,Adventure,Indie,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 12129111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Euro Truck Simulator 2",
+   "Steam Url": "https://store.steampowered.com/app/227300",
+   "Publisher": "SCS Software",
+   "Genre": "Casual,Racing,Simulation,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100204611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "F1® 2018",
+   "Steam Url": "https://store.steampowered.com/app/737800",
+   "Publisher": "Codemasters",
+   "Genre": "Simulation,Racing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 17939311,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Fallout 3: Game of the Year Edition",
+   "Steam Url": "https://store.steampowered.com/app/22370",
+   "Publisher": "Bethesda Softworks",
+   "Genre": "First-Person Shooter,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100162811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Far Cry® 4",
+   "Steam Url": "https://store.steampowered.com/app/298110",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100091011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Far Cry® 5",
+   "Steam Url": "",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100366511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "FIA European Truck Racing Championship",
+   "Steam Url": "https://store.steampowered.com/app/940580",
+   "Publisher": "Bigben Interactive",
+   "Genre": "Racing,Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100134911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Football Manager 2018",
+   "Steam Url": "https://store.steampowered.com/app/624090",
+   "Publisher": "SEGA",
+   "Genre": "Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100134811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Football Manager Touch 2018",
+   "Steam Url": "https://store.steampowered.com/app/624120",
+   "Publisher": "SEGA",
+   "Genre": "Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100299511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "FTL: Faster Than Light",
+   "Steam Url": "https://store.steampowered.com/app/212680",
+   "Publisher": "Subset Games",
+   "Genre": "Casual,Indie,Simulation,Strategy,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100270211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "GUILTY GEAR Xrd -REVELATOR-",
+   "Steam Url": "https://store.steampowered.com/app/520440",
+   "Publisher": "Arc System Works",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18111711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "HITMAN™",
+   "Steam Url": "https://store.steampowered.com/app/236870",
+   "Publisher": "IO Interactive A/S",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100214311,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "HITMAN™2",
+   "Steam Url": "https://store.steampowered.com/app/863550",
+   "Publisher": "Warner Bros Interactive Entertainment",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100199211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Immortal: Unchained",
+   "Steam Url": "https://store.steampowered.com/app/369440",
+   "Publisher": "Game Odyssey Limited",
+   "Genre": "Action,Adventure,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100058411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Insurgency",
+   "Steam Url": "https://store.steampowered.com/app/222880",
+   "Publisher": "New World Interactive",
+   "Genre": "Action,Indie,Strategy,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100189811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Insurgency: Sandstorm",
+   "Steam Url": "https://store.steampowered.com/app/581320",
+   "Publisher": "Focus Home Interactive",
+   "Genre": "Action,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100236211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "LEGO® DC Super-Villains",
+   "Steam Url": "https://store.steampowered.com/app/829110",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Adventure,Family,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100196611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "LEGO® MARVEL's Avengers",
+   "Steam Url": "https://store.steampowered.com/app/405310",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Adventure,Family,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100037911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Mad Max",
+   "Steam Url": "https://store.steampowered.com/app/234140",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100043311,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Mafia III",
+   "Steam Url": "https://store.steampowered.com/app/360430",
+   "Publisher": "2K Games",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100310411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Mortal Kombat 11",
+   "Steam Url": "https://store.steampowered.com/app/976310",
+   "Publisher": "Warner Bros Interactive Entertainment",
+   "Genre": "Action,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 15316111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Mortal Kombat X",
+   "Steam Url": "https://store.steampowered.com/app/307780",
+   "Publisher": "Warner Bros. Interactive Entertainment",
+   "Genre": "Action,Arcade,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100323311,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "MotoGP™19",
+   "Steam Url": "https://store.steampowered.com/app/984780",
+   "Publisher": "Milestone S.r.l.",
+   "Genre": "Racing,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100062211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Mount & Blade",
+   "Steam Url": "https://store.steampowered.com/app/22100",
+   "Publisher": "TaleWorlds Entertainment",
+   "Genre": "Indie,Role Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100324011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "MXGP 2019 - The Official Motocross Videogame",
+   "Steam Url": "https://store.steampowered.com/app/1018160",
+   "Publisher": "Milestone S.r.l.",
+   "Genre": "Racing,Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100011211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "NBA 2K17",
+   "Steam Url": "https://store.steampowered.com/app/385760",
+   "Publisher": "2K",
+   "Genre": "Sports,Simulation,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100128211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "NBA 2K18",
+   "Steam Url": "https://store.steampowered.com/app/577800",
+   "Publisher": "2K",
+   "Genre": "Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100201511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "NBA 2K19",
+   "Steam Url": "https://store.steampowered.com/app/841370",
+   "Publisher": "2K",
+   "Genre": "Sports,Simulation,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100196711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Outlast",
+   "Steam Url": "https://store.steampowered.com/app/238320",
+   "Publisher": "Red Barrels",
+   "Genre": "Action,Indie,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100128311,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Project CARS 2",
+   "Steam Url": "https://store.steampowered.com/app/378860",
+   "Publisher": "BANDAI NAMCO Entertainment",
+   "Genre": "Simulation,Racing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100203811,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "PUBG: Closed Experimental Server",
+   "Steam Url": "https://store.steampowered.com/app/813000",
+   "Publisher": "PUBG Corporation",
+   "Genre": "Action,Adventure,Massively Multiplayer Online,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18114211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Sniper Elite 3",
+   "Steam Url": "https://store.steampowered.com/app/238090",
+   "Publisher": "Rebellion",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18545611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Sniper Elite 4",
+   "Steam Url": "https://store.steampowered.com/app/312660",
+   "Publisher": "Rebellion",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 18319211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "TEKKEN 7",
+   "Steam Url": "https://store.steampowered.com/app/389730",
+   "Publisher": "BANDAI NAMCO Entertainment",
+   "Genre": "Action,Arcade,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 17945611,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "TERA",
+   "Steam Url": "https://store.steampowered.com/app/323370",
+   "Publisher": "En Masse Entertainment",
+   "Genre": "Action,Adventure,Free To Play,Massively Multiplayer OnlineRole Playing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100154211,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "The Crew® 2",
+   "Steam Url": "https://store.steampowered.com/app/646910",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Racing,Massively Multiplayer Online,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 17945911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "The Crew™",
+   "Steam Url": "",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Massively Multiplayer Online,Racing,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100309911,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Tom Clancy’s The Division® 2",
+   "Steam Url": "",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,Role Playing,Massively Multiplayer Online,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 99999411,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Watch_Dogs® 2",
+   "Steam Url": "",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100182011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Watch_Dogs™",
+   "Steam Url": "https://store.steampowered.com/app/243470",
+   "Publisher": "Ubisoft",
+   "Genre": "Action,Adventure,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100102511,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "Wolfenstein®: The Old Blood™",
+   "Steam Url": "https://store.steampowered.com/app/350080",
+   "Publisher": "Bethesda Softworks",
+   "Genre": "Action,First-Person Shooter,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100236011,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "WWE 2K19",
+   "Steam Url": "https://store.steampowered.com/app/817130",
+   "Publisher": "2K",
+   "Genre": "Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100372111,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "WWE 2K20",
+   "Steam Url": "https://store.steampowered.com/app/1015500",
+   "Publisher": "2K",
+   "Genre": "Simulation,Sports,",
+   "Status": "AVAILABLE"
+ },
+ {
+   "ID": 100242711,
+   "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\WINIT_LOGO.PNG",
+   "Title": "X4: Foundations",
+   "Steam Url": "https://store.steampowered.com/app/392160",
+   "Publisher": "Egosoft",
+   "Genre": "Action,Simulation,",
+   "Status": "AVAILABLE"
+  }
+ ]
+}
