@@ -106,7 +106,7 @@ label #close{
 
 
 section{
-  background: url("McNaughty/Phase1Project-GamersSpot/assets/Background.jpg") no-repeat;
+  background: url("./Phase1Project-GamersSpot/assets/Background.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   height: 100%;
