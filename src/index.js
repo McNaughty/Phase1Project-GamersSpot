@@ -175,7 +175,7 @@ function filter_rows(){
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("http://localhost:3000/games")
+  fetch("https://retoolapi.dev/sPoClF/games")
     .then(function (response) {
       return response.json();
     })
