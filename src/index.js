@@ -175,7 +175,7 @@ function filter_rows(){
 
 
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("https://github.com/McNaughty/Phase1Project-GamersSpot/blob/main/db.json")
+  fetch("https://mcnaughty.github.io/Phase1Project-GamersSpot/db.json")
     .then(function (response) {
       return response.json();
     })
