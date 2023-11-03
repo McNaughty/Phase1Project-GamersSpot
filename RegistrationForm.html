@@ -35,6 +35,7 @@
     <!-- //Registration form -->
 
     <section>
+        <div  class="registration">
         <div class="container">
             <header>Registration Form</header>
             <form action="#" class="form">
@@ -47,7 +48,11 @@
                     <input id="emailAd" type="text" placeholder="Email" required />
                 </div>
                 <div class="input-box">
-                    <label>Born Day</label>
+                    <label>PSN Account</label>
+                    <input id="psn" type="text" placeholder="username" required />
+                </div>
+                <div class="input-box">
+                    <label>Life Anniversary</label>
                     <input id="bDay" type="date" placeholder="Born Day" required />
                 </div>
                 <div class="gender-box">
@@ -62,12 +67,12 @@
                             <label for="check-male">Male</label>
                         </div>
                         <div class="gender">
-                            <input type="radio" id="check-other" name="gender" value="TransGender" />
-                            <label for="check-other" >TransGender</label>
+                            <input type="radio" id="check-tg" name="gender" value="Transgender" />
+                            <label for="check-tg" >Transgender</label>
                         </div>
                         <div class="gender">
-                            <input type="radio" id="check-other" name="gender" value="GNC" />
-                            <label for="check-other" >GNC</label>
+                            <input type="radio" id="check-gnc" name="gender" value="GNC" />
+                            <label for="check-gnc" >GNC</label>
                         </div>
                         <div class="gender">
                             <input type="radio" id="check-other" name="gender" value="PNTS" />
@@ -78,7 +83,11 @@
                 <div class="input-box address">
                     <label>Address</label>
                     <input id="streetAd" type="text" placeholder="Enter street address" required />
-                    <input id="streetAd2" type="text" placeholder="Enter street address line 2" required />
+                    <!-- <input id="streetAd2" type="text" placeholder="Enter street address line 2" required /> -->
+                    <div class="column">
+                        <!-- <input id="region" type="text" placeholder="Enter your region" required /> -->
+                        <input id="pcode" type="number" placeholder="Postal code" required />
+                    </div>
                     <div class="column">
                         <div class="select-box">
                             <select id="country">
@@ -91,17 +100,15 @@
                         </div>
                         <input id="city" type="text" placeholder="Enter your city" required />
                     </div>
-                    <div class="column">
-                        <input id="region" type="text" placeholder="Enter your region" required />
-                        <input id="pcode" type="number" placeholder="Postal code" required />
-                    </div>
+                    
                 </div>
                 <button id="reguser">Submit</button>
             </form>
         </div>
+    </div>
     </section>
 
-    <!-- <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">©2023 winit.africa</div> -->
+    <div style="background-color:black;text-align:center;padding:10px;margin-top:7px;">©2023 winit.africa</div>
 
 </body>
 <script src="/src/Registration.js"></script>
