@@ -1,5 +1,4 @@
-{
-    "games": [
+[
  {
    "ID": 100031911,
    "Poster": "C:\\Users\\WinnieAbuor\\Downloads\\MoringaPhase1-Project\\posters\\7daysToDie.jpg",
@@ -711,5 +710,4 @@
    "Genre": "Action,Simulation,",
    "Status": "AVAILABLE"
   }
- ]
-}
+]
