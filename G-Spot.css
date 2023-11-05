@@ -113,7 +113,7 @@ section{
   background: url('./assets/Background.jpg') no-repeat;
   background-position:center top;
   
-  background-size: 1100px 500px;
+  background-size: 1500px 500px;
   height: max-content;
   /* width: auto; */
   transition: all .5s;
