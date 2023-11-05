@@ -1,6 +1,13 @@
 # Phase1Project-GamersSpot
 Moringa Software Development Course - Phase one project
 
+# Author
+Winnie Abuor
+
+# Live Site
+
+https://mcnaughty.github.io/Phase1Project-GamersSpot/VideoPlayback.html
+
 # McNaughty's GamerSpot (G-Spot)
 This is is a game listing web page where video game enthusiasts can access and get information about some of the favorite games.
 
