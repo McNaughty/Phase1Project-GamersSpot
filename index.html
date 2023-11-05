@@ -3,20 +3,21 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <link rel="stylesheet" type="text/css" href="./G-Spot.css" />
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-      integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    ></script>
-    <script src="https://mcnaughty.github.io/Phase1Project-GamersSpot/src/index.js"></script>
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <link rel="stylesheet" type="text/css" href="./G-Spot.css" />
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+    integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  ></script>
+  <script src="https://mcnaughty.github.io/Phase1Project-GamersSpot/src/index.js"></script>
+    <!-- <script src="/src/Registration.js"></script> -->
   </head>
 
   <body style="font-family: Verdana; color: #aaaaaa">
@@ -33,17 +34,17 @@
       <header>Game Listing</header>
       <ul>
         <li>
-          <a id="dashboardContainer" href="VideoPlayback.html"
+          <a id="dashboardContainer" href="index.html"
             ><i class="fa-solid fa-qrcode fa-lg"></i>Dashboard</a
           >
         </li>
         <li>
-          <a id="listContainer" href="index.html"
+          <a id="listContainer" href="#gamelist"
             ><i class="fa-solid fa-gamepad fa-lg"></i>Game List</a
           >
         </li>
         <li>
-          <a id="registerContainer" href="RegistrationForm.html"
+          <a id="registerContainer" href="#collarobate"
             ><i class="fa-solid fa-user-plus fa-lg"></i>Collaborate</a
           >
         </li>
@@ -54,7 +55,33 @@
         </li>
       </ul>
     </div>
+    <!-- <section></section> -->
+    <!-- //Registration form -->
+
     <section>
+      <div class="registration">
+        <div class="container">
+          <iframe
+            width="650"
+            height="315"
+            src="https://www.youtube.com/embed/4ELUh_Hcpiw?si=tfj48tWYIEmwv-V6"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+      <div id="gamelist"
+      style="
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        margin-top: 7px;
+      "
+    >
+      
+    </div>
       <div class="main">
         <h2>Game Details</h2>
         <!-- <input type="text" id="searchbox" placeholder="Search Game..." />
@@ -65,36 +92,168 @@
 
       <div class="outer-wrapper">
         <div class="table-wrapper">
-      <table id="gameTable">
-        <thead>
-          <tr>
-            <th>GameID</th>
-            <th>POSTER</th>
-            <th>TITLE</th>
-            <th col-index =4>GENRE
-              <select class="tableFilter" onchange="filter_rows()">
-                <option value="all"></option>
-              </select>
-            </th>
-            <th col-index =5>PUBLISHER
-              <select class="tableFilter" onchange="filter_rows()">
-                <option value="all"></option>
-              </select>
-            </th>
-            <th>STATUS</th>
-            <th>STEAM URL</th>
-          </tr>
-        </thead>
-        <tbody id="data-output">
-          <tr>
-            <!-- data populated from javascript -->
-          </tr>
-        </tbody>
-      </table>
+          <table id="gameTable">
+            <thead>
+              <tr>
+                <th>GameID</th>
+                <th>POSTER</th>
+                <th>TITLE</th>
+                <th col-index="4">
+                  GENRE
+                  <select class="tableFilter" onchange="filter_rows()">
+                    <option value="all"></option>
+                  </select>
+                </th>
+                <th col-index="5">
+                  PUBLISHER
+                  <select class="tableFilter" onchange="filter_rows()">
+                    <option value="all"></option>
+                  </select>
+                </th>
+                <th>STATUS</th>
+                <th>STEAM URL</th>
+              </tr>
+            </thead>
+            <tbody id="data-output">
+              <tr>
+                <!-- data populated from javascript -->
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div id="collarobate"
+      style="
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        margin-top: 7px;
+      "
+    >
+      Subscribe to Collaborate
     </div>
-    </div>
+      <div class="registration">
+        <div class="container">
+          <header>Registration Form</header>
+          <form action="#" class="form">
+            <div class="input-box">
+              <label>Full Name</label>
+              <input id="fName" type="text" placeholder="Full name" required />
+            </div>
+            <div class="input-box">
+              <label>Email Address</label>
+              <input id="emailAd" type="text" placeholder="Email" required />
+            </div>
+            <div class="input-box">
+              <label>PSN Account</label>
+              <input id="psn" type="text" placeholder="username" required />
+            </div>
+            <div class="input-box">
+              <label>Life Anniversary</label>
+              <input id="bDay" type="date" placeholder="Born Day" required />
+            </div>
+            <div class="gender-box">
+              <h3>Gender</h3>
+              <div class="gender-option">
+                <div class="gender">
+                  <input
+                    type="radio"
+                    id="check-female"
+                    name="gender"
+                    value="Female"
+                  />
+                  <label for="check-female">Female</label>
+                </div>
+                <div class="gender">
+                  <input
+                    type="radio"
+                    id="check-male"
+                    name="gender"
+                    value="Male"
+                  />
+                  <label for="check-male">Male</label>
+                </div>
+                <div class="gender">
+                  <input
+                    type="radio"
+                    id="check-tg"
+                    name="gender"
+                    value="Transgender"
+                  />
+                  <label for="check-tg">Transgender</label>
+                </div>
+                <div class="gender">
+                  <input
+                    type="radio"
+                    id="check-gnc"
+                    name="gender"
+                    value="GNC"
+                  />
+                  <label for="check-gnc">GNC</label>
+                </div>
+                <div class="gender">
+                  <input
+                    type="radio"
+                    id="check-other"
+                    name="gender"
+                    value="PNTS"
+                  />
+                  <label for="check-other">Prefer not to say</label>
+                </div>
+              </div>
+            </div>
+            <div class="input-box address">
+              <label>Address</label>
+              <input
+                id="streetAd"
+                type="text"
+                placeholder="Enter street address"
+                required
+              />
+              <!-- <input id="streetAd2" type="text" placeholder="Enter street address line 2" required /> -->
+              <div class="column">
+                <!-- <input id="region" type="text" placeholder="Enter your region" required /> -->
+                <input
+                  id="pcode"
+                  type="number"
+                  placeholder="Postal code"
+                  required
+                />
+              </div>
+              <div class="column">
+                <div class="select-box">
+                  <select id="country">
+                    <option hidden>Country</option>
+                    <option value="Kenya">Kenya</option>
+                    <option value="Uganda">Uganda</option>
+                    <option value="Rwanda">Rwanda</option>
+                    <option value="Ethiopia">Ethiopia</option>
+                  </select>
+                </div>
+                <input
+                  id="city"
+                  type="text"
+                  placeholder="Enter your city"
+                  required
+                />
+              </div>
+            </div>
+            <button id="reguser">Submit</button>
+          </form>
+        </div>
+      </div>
     </section>
 
-    <div style="background-color:#0a5275;text-align:center;padding:10px;margin-top:7px;">©2023 winit.africa</div>
+    <div
+      style="
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        margin-top: 7px;
+      "
+    >
+      ©2023 winit.africa
+    </div>
   </body>
+  <script src="/src/Registration.js"></script>
 </html>

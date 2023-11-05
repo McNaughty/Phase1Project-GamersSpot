@@ -46,9 +46,13 @@ function regUser(userData) {
   })
     .then((response) => response.json())
     .then((registeredUser) =>
-      console.log("newUser registration", registeredUser)
+     // console.log("newUser registration", registeredUser)
+      alert(`Gamer ${registeredUser.FullName} has successfully been subscribed.`)
+      
     )
     .catch((err) => console.log(err));
+
+  
   //console.log(jsonData);
 }
 
@@ -57,7 +61,9 @@ document.addEventListener("DOMContentLoaded", () => {
     e.preventDefault();
 
     test();
-
+    
+    
     // regUser(userData);
   });
+
 });
