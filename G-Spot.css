@@ -110,10 +110,10 @@ label #close{
 
 section{
   
-  background: url('./assets/Background.jpg') no-repeat;
+  background: url('https://mcnaughty.github.io/Phase1Project-GamersSpot/assets/Background.jpg') no-repeat;
   background-position:center top;
   
-  background-size: 1920px 500px;
+  background-size: 2560px 500px;
   height: max-content;
   /* width: auto; */
   transition: all .5s;
