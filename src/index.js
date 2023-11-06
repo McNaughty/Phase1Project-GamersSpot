@@ -1,13 +1,14 @@
-$(document).ready(function () {
-  jQuery.noConflict(); //To prevent conflict between javascript variables using $ and jQuery
-  $('li>a[id$="Container"]').click(function (event) {
-    event.preventDefault();
-    var href = $(this).attr("href");
-    //alert("Loading " + href)
-    $("#container").load(href);
-    return false;
-  });
-});
+// For use with the multi-page / multi-html version of the web app
+// $(document).ready(function () {
+//   jQuery.noConflict(); //To prevent conflict between javascript variables using $ and jQuery
+//   $('li>a[id$="Container"]').click(function (event) {
+//     event.preventDefault();
+//     var href = $(this).attr("href");
+//     //alert("Loading " + href)
+//     $("#container").load(href);
+//     return false;
+//   });
+// });
 
 // Get unique values for the columns being filtered
 
